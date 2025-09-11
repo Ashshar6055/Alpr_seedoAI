@@ -1,10 +1,11 @@
-torch
-torchvision
 ultralytics
 opencv-python
 numpy
 pillow
-easyocr
 scipy
 filterpy
-requests
+
+--- Pinning to a stable, compatible version of Paddle libraries ---
+paddlepaddle-gpu==2.5.2
+paddleocr==2.7.0.3
+
